@@ -29,8 +29,6 @@
    ```
    pip install -r requirements.txt
    ```
-   Replace `requirements.txt` with a file containing the required dependencies (`selenium`, `chromedriver`, etc.).
-
 ## Usage:
 1. Make sure the virtual environment is activated.
 2. Put your SAP ID and password in the `main.py` file.
